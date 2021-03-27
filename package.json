@@ -1,4 +1,17 @@
 {
     "name": "@idan666/ulai",
-    "version": "1.0.1"
+    "version": "1.0.2",
+    "description": "Returns a random boolean answer",
+    "license": "MIT",
+    "repository": "idan666/ulai",
+    "main": "index.js",
+    "keywords": [
+      "ulai",
+      "npm",
+      "package",
+      "idan666",
+      "maybe",
+      "boolean",
+      "random"
+    ]
 }
